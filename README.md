@@ -1,1 +1,1 @@
-# odin-recipes
+A simple project to practice along with the Odin project.
